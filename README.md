@@ -1,3 +1,3 @@
 # Source Codes for tutorial projects in ChangLab(https://qbio.io)
-# Reproduced VN Kim et al. “LIN28A is a suppressor of ER-associated translation in embryonic stem cells”, Cell, 151(4), 765-777.
-# Filename means which figure is reproduced.
+I worked in ChangLab as an undergrad intern from Jan to Feb 2020. During the internship, I reproduced the paper “LIN28A is a suppressor of ER-associated translation in embryonic stem cells” by VN Kim et al.
+Each filename corresponds to the figure in the paper that is reproduced. For example, S2A.ipynb contains the source code that reproduced supplementary figure S2A in the paper.
